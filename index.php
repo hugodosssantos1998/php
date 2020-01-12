@@ -1,7 +1,6 @@
 <?php
 
-echo "hello word, ousadia e alegria";
-
-
-?>
-
+echo "cole";
+echo "rapaziada";
+  
+  ?>
